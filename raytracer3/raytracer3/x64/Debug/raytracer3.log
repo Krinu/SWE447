@@ -1,0 +1,19 @@
+﻿  raytracer3.cpp
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(175): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(176): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(348): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(419): warning C4930: 'Vec3f collision(void)': prototyped function not called (was a variable definition intended?)
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(571): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(572): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(591): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(592): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(673): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(674): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(699): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phyde_000\onedrive\documents\class\2017sp\datastructures\raytracer3\raytracer3\raytracer3.cpp(700): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\phyde_000\OneDrive\Documents\Class\2017SP\DataStructures\raytracer3\x64\Debug\raytracer3.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  raytracer3.vcxproj -> C:\Users\phyde_000\OneDrive\Documents\Class\2017SP\DataStructures\raytracer3\x64\Debug\raytracer3.exe
+  raytracer3.vcxproj -> C:\Users\phyde_000\OneDrive\Documents\Class\2017SP\DataStructures\raytracer3\x64\Debug\raytracer3.pdb (Partial PDB)
